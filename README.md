@@ -1,5 +1,5 @@
-paid minecraft cheat released for free works only only lunar 1.8.9
-will crash, will have bugs, david leaked a developer build
+minecraft cheat released for free works only only lunar 1.8.9
+will crash, will have bugs, will get you detected (maybe), someone leaked a developer build
 
 go ingame (load a single player world or some shit)
 inject
