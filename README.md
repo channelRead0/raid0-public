@@ -10,13 +10,3 @@ some modules are incomplete/wont work, this was an early developer build
 if there's issues and shit just open an issue i might fix it
 
 <b>its a leaked dev build dont expect a flawless experience</b>
-<b>its a leaked dev build dont expect a flawless experience</b>
-<b>its a leaked dev build dont expect a flawless experience</b>
-<b>its a leaked dev build dont expect a flawless experience</b>
-<b>its a leaked dev build dont expect a flawless experience</b>
-<b>its a leaked dev build dont expect a flawless experience</b>
-<b>its a leaked dev build dont expect a flawless experience</b>
-<b>its a leaked dev build dont expect a flawless experience</b>
-<b>its a leaked dev build dont expect a flawless experience</b>
-<b>its a leaked dev build dont expect a flawless experience</b>
-<b>its a leaked dev build dont expect a flawless experience</b>
